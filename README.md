@@ -14,7 +14,8 @@ Introduction:
 Intro of the project: Live Hackathons MNNIT
 
 
-App Photos Link:file:///C:/Users/Admin/Pictures/hackthons/Screenshot%202021-04-11%20112014.jpg.gif
+App Photos Link:![image](https://user-images.githubusercontent.com/78801686/114294573-4a3de980-9abd-11eb-806c-a78f0b842e5f.png)
+
 
 
 
